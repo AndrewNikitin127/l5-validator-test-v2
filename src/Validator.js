@@ -1,4 +1,5 @@
 import StringSchema from './StringSchema.js'
+import ArraySchema from './ArraySchema.js'
 
 export default class Validator {
   string(){
